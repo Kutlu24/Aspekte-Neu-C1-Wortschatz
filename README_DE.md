@@ -65,6 +65,10 @@ Dann in Ihrem Browser: `http://localhost:8000`
 
 Kostenlos und einfach! Detaillierte Anweisungen finden Sie in der Datei `DEPLOYMENT.md`.
 
+## 🗄️ Archiv
+
+Dieses Repository ist die aktuelle, gepflegte Version. Eine frühere, kleinere Version mit ähnlichem Thema (`HEY-Bist-Du-Bereit---C1`) ist zur Referenz unter [`archive/v1-hey-bist-du-bereit-c1/`](archive/v1-hey-bist-du-bereit-c1/) abgelegt und wird nicht mehr separat gepflegt.
+
 ## 📁 Dateistruktur
 
 ```

@@ -58,6 +58,10 @@ Basierend auf dem Lehrwerk "Aspekt Neu C1", bietet dieses Modul mehrsprachige Un
 3. In Modul 2 wählst du beim ersten Start deine Muttersprache aus.
 4. Beginne mit den Lernkarten oder teste dein Wissen direkt im Quiz.
 
+## 🗄️ Archiv
+
+Dieses Repository ist die aktuelle, gepflegte Version. Eine frühere, kleinere Version mit ähnlichem Thema (`HEY-Bist-Du-Bereit---C1`) ist zur Referenz unter [`archive/v1-hey-bist-du-bereit-c1/`](archive/v1-hey-bist-du-bereit-c1/) abgelegt und wird nicht mehr separat gepflegt.
+
 ---
 *Erstellt für Deutschlerner auf dem Weg zum C1-Niveau.*
  (iOS Safari, Chrome Mobile)
